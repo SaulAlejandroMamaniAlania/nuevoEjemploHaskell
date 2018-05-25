@@ -1,6 +1,6 @@
 import Text.Show.Functions
 
-funcion nivel=replicate 3 even
+funcion nivel=replicate 44 even
 
 f x y z
        | (y 0) == z=map (fst.x z)
